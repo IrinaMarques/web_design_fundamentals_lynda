@@ -1,0 +1,9 @@
+================================
+Getting started with web design
+================================
+
+Core web design skills:
+- HTML - Hypertext Markup Language
+- CSS  - Cascading Style Sheets
+- JS - JavaScript
+
