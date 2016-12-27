@@ -27,3 +27,9 @@ Exploring JavaScript
 ===================== 
 
 Control the behavior of page elements.
+
+=================
+Learning to code
+=================
+
+Move the Css and the Javascript to separate the files from HTML. Control multiple pages witha  single file.
