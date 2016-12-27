@@ -7,3 +7,11 @@ Core web design skills:
 - CSS  - Cascading Style Sheets
 - JS - JavaScript
 
+===============
+Exploring HTML
+===============
+
+Plain text files:
+- HTML 
+- CSS  
+- JS
