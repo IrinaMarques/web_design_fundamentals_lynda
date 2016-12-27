@@ -15,3 +15,9 @@ Plain text files:
 - HTML 
 - CSS  
 - JS
+
+==============
+Exploring CSS
+==============
+
+Css it's a presentation languague. Controls the visual of the page. 
