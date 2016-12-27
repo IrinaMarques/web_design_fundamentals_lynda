@@ -34,3 +34,30 @@ Front End Design:
 - Developing the visual part of websites
 - Controls typography, layout, color, and graphics
 - Responsible for site planing, user interaction, user experience, and client.side scripting.
+
+============================
+Is web design right for you?
+============================
+
+Working professional:
+Invested in a career other than web design, but still may need occasionally edit or create web content.
+
+Hobbyists:
+Interested in wb design, but not as a full-time pursuit.
+
+Professional web design:
+Requires focus, time, and commitment.
+
+Alternate Ways to Create a Web Content:
+- Hire a web designer or agency
+- Template-based site
+- Blogging and social media
+
+Professional Web Designer:
+- No shortcuts
+- Learn HTML, CSS, Javascript
+- Devote time and effort
+
+Accessibility
+Search Optimization
+User agent compatility
