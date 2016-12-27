@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>Exploring HTML</title>
+<style>
+body {
+	color: red;
+}
+h1 {
+	font-family: Arial, sans-serif;
+	font-size: 32px;
+	color: black;
+}
+</style>
+</head>
+<body>
+<h1>My first web page</h1>
+<p>This is my first web page, it's a little basic, but it's helping me understand how HTML works and how to markup my content.</p>
+<button id="color">Change color!</button> <!--id of color-->
+<script> // let know that a script will be use
+	//inside the current document find an element by its id attribute - color
+	//.onclick is an event - when the button is clicked it's going to do something - change color
+	document.getElementById('color').onclick = changeColor; 
+
+	//create a variable
+	var currentColor = "red"; //variable named currentColor and the value is red
+
+	//name of a function - the code that should run when we call that function
+	function changeColor() { 
+			//if color is red, let's do something
+			if(currentColor == "red" ){ //== checks the value
+		document.body.style.color = "green"; //go to the document find the body tag and style the color of the document. If the color is red change it to green
+		currentColor = "green";
+		//this is what to do if the color is red, if the color is not red - else
+			} else {
+		document.body.style.color = "red";
+		currentColor = "red";
+		}
+        return currentColor ;
+    }  
+</script>
+</body>
+</html>
+
+
+

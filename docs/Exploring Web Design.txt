@@ -20,4 +20,10 @@ Plain text files:
 Exploring CSS
 ==============
 
-Css it's a presentation languague. Controls the visual of the page. 
+Css it's a presentation languague. Controls the visual of the page.
+
+=====================
+Exploring JavaScript
+===================== 
+
+Control the behavior of page elements.
