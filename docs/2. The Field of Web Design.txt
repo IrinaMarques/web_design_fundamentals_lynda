@@ -61,3 +61,42 @@ Professional Web Designer:
 Accessibility
 Search Optimization
 User agent compatility
+
+=============================
+Different areas of web design
+=============================
+
+Generalist:
+- Core skills - HTML, CSS, JS
+- Planning/Prototyping -> Building/Testing
+- Able to build from scratch
+
+Visual Designers:
+- Core skills - HTML, CSS, Aa, Ai, Ps
+- Color, layout, typography, and graphics
+- Graphic designers
+
+UX Designer:
+- Core skills - HTML, CSS, UX
+- Focus on human behavior and interaction
+- Usally little to no web design skills
+
+Interactive Designer
+- Core skills - HTML, CSS, JS, JS Frameworks
+- Build interfaces to create seamless interactions
+- Focus on Javascript to modify HTML
+
+Motion Graphic Designer:
+- Core skills - CANVAS, CSS, JS, Flash
+- Traditional animator
+- Typically use JavaScript and HTML5 technologies
+
+Front End Developer
+- Core skills - HTML, JS Framework, JS
+- Writes scripts that run on the client side
+- Works to incorporate design elements with scripts to create the best experience
+
+CMS Specialist (Content Management System)
+- Uses Drupal, Joomla, Wordpress to build highly functional sites
+- Usually specialized in one CMS
+
