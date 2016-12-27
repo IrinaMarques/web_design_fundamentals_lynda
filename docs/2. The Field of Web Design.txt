@@ -1,0 +1,36 @@
+=======================
+What is a web designer?
+=======================
+
+Web designer is no logger just designing for the browser but designing for all user experiences. 
+- browsers
+- screen readers
+- apps
+- phones
+- tablets
+- printers
+- RSS feed readers
+- cars
+- glasses
+
+What are you creating?
+- HTML
+- CSS
+- JS
+- Images
+- Streaming video or audio
+- Embedded web fonts
+- Flash
+- Animate page elements
+
+Functionality?
+- eCommerce 
+- scripting to respond to user input pulling information from databases or other server side functionality 
+- Twitter 
+- Facebook 
+- Google Maps 
+
+Front End Design:
+- Developing the visual part of websites
+- Controls typography, layout, color, and graphics
+- Responsible for site planing, user interaction, user experience, and client.side scripting.
