@@ -1,0 +1,28 @@
+======================
+Getting online quicky
+======================
+
+Build a blog
+
+- free blogging plataforms
+- Host your own blog
+
+- You may not be able to control your site's URL
+- Some free blogs require you to display ads
+- May have a limited feature set
+
+Hosting your own blog
+- Register a domain, choose a hosting company, intall blogging software
+- Be patient, this might take longer
+- Most hosts provide 1-click install of popular blogging software
+- You have lots of options for themes
+- Well documented administrative tools
+
+http://www.squarespace.com
+http://www.weebly.com
+
+Social Media Accounts:
+-Twitter
+- Instagram
+- Linkedln
+- Facebook
