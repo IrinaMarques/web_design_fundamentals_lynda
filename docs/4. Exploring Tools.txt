@@ -49,3 +49,24 @@ Alternate Tools
 http://inkscape.org/en
 http://www.gimp.org
 http://bohemiancoding.com/sketch - only for Mac
+
+==============
+Testing tools
+==============
+
+Browsers:
+- Chrome
+- Firefox
+- Opera
+- Safari 
+- Internet Explorer
+
+http://modern.ie
+
+Testing on mobile devices:
+- IOS device
+- Android device
+
+Test in multiple devices
+http://creative.adobe.com/products/inspect
+http://vanamco.com/ghostlab
