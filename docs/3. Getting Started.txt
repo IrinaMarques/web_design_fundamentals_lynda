@@ -36,3 +36,24 @@ CMS = Content Management System
 - Quickly create a site
 - Easily manage pages and posts
 - Template
+
+===================
+Choosing a web host
+===================
+
+Hosting PLans 
+
+- Don't let price be a driving factor
+
+- Unlimited space usually isn't
+
+- Research uptime
+--> http://uptimerobot.com
+
+- Dedicated or shared server
+--> http://goo.gl/NWLK4a
+
+- Installation Options
+
+- Support (24 hours live support)
+--> http://reviewsignal.com/webhosting
