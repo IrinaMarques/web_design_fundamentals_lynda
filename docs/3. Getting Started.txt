@@ -57,3 +57,31 @@ Hosting PLans
 
 - Support (24 hours live support)
 --> http://reviewsignal.com/webhosting
+
+========================
+Registering domain names
+========================
+
+Choosing a Domain Name:
+- .com, .org, .net, .info
+- Often people will register multiple top level domains to the same site
+- Country domains like .fr, .io, and .de are becoming popular, but might have some restrictions on site registration. 
+- Be flexible
+- Have a list of alternates
+
+Make it memorable:
+- Visitors should be able to type the address by memory
+- Shorter URLs are better, but being memorable is best
+
+Resgistering Domains:
+- Registry Company
+- Hosting Company
+
+Domanin Ownership:
+- Make sure YOU own the domain
+- Only the site owner can transfer the domain
+- Have a clear definition of domain ownership if you are registering for a client.
+
+Final thoughts:
+- Register you domain as soon as you can
+- Note the primary and secondary names servers
