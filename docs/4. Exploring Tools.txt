@@ -70,3 +70,20 @@ Testing on mobile devices:
 Test in multiple devices
 http://creative.adobe.com/products/inspect
 http://vanamco.com/ghostlab
+
+==================
+Prototyping tools
+==================
+
+http://goo.gl/Sy9XQt
+http://www.adobe.com/products/acrobat
+http://office.microsoft.com/en-us/visio (only for windows)
+http://www.omnigroup.com/omnigraffle (only for mac)
+http://www.axure.com
+http://www.balsamiq.com
+http://www.justinmind.com
+http://www.antetype.com
+
+http://www.getbootstrap.com
+http://foundation.zurb.com
+
