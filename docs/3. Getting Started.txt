@@ -26,3 +26,13 @@ Social Media Accounts:
 - Instagram
 - Linkedln
 - Facebook
+
+=============================================
+Working with content management systems (CMS)
+=============================================
+
+CMS = Content Management System
+
+- Quickly create a site
+- Easily manage pages and posts
+- Template
