@@ -13,3 +13,19 @@ Storage Considerations
 - Temporary backup
 - Medium to long term, more robust
 - Offsite, robust, fairly inexpensive
+
+======================
+Choosing a code editor
+======================
+
+Ease of Use
+Speed
+Feature Sets
+Features to Compare:
+- Syntax highlighting
+- Line numbering
+- Auto complete
+- Find and replace functions
+- Multilingual support
+- Syntax error highlighting
+- Code snippets for common code
