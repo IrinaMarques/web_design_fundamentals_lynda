@@ -1,0 +1,15 @@
+=====================
+Typical workstations
+=====================
+
+Workstation Considerations
+- Powerful laptop
+- Max out the RAM and hard drive space
+- Use the operationg system that works for you
+- Use a high resolution display
+
+Storage Considerations
+- File security
+- Temporary backup
+- Medium to long term, more robust
+- Offsite, robust, fairly inexpensive
