@@ -91,3 +91,17 @@ Administering sites
 ====================
 
 --> http://www.bluehost.com
+
+=========================
+How sites are structured
+=========================
+
+- Name of the folder
+
+- index.html --> name of the homepage of any site
+
+- top level files:  another html files that are important they stay in the same directory as index.html
+
+- recources: another html files that aren't so important as the top level files
+
+- folders with underscores _files, _images, _videos, _scripts, _css --> all resources, they are not individual pages but are resources that the webpage are using. Underscore indicates that is a resource and not a section of the site
