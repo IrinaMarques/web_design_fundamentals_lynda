@@ -29,3 +29,23 @@ Features to Compare:
 - Multilingual support
 - Syntax error highlighting
 - Code snippets for common code
+
+==========================
+Choosing a graphics editor
+==========================
+
+Web Graphics Requirements:
+- You'll need to work with both vector and raster graphics
+- Using an editor that can handle both is ideal, but it's not uncommon to use a separate editor for raster and vector
+- Your editor should have powerful optimization tools that allow it to export images into the desired formats
+-- Having an editor that can represent the states or changes to elements based on user interactivity is extremely helpful
+
+- Photoshop
+- Illustrator
+- Fireworks
+- CorelDRAW
+
+Alternate Tools
+http://inkscape.org/en
+http://www.gimp.org
+http://bohemiancoding.com/sketch - only for Mac
