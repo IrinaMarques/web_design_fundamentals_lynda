@@ -118,3 +118,22 @@ Downsides:
 - You'll usually use only a fraction of what most frameworks offer.
 - You're restricted by someone else's coding standards
 - Modifying the framework to fit your workflow can be time-consuming techniques
+
+=====================
+Javascript libraries
+=====================
+
+Pre-written libraries of JavaScript that provide methods for handling complex tasks. Most are focused on specific tasks like animation, UI, interaction, page assembly, or application logic. 
+
+Benefits:
+- Much faster than scripting from scratch
+- Provides functionaity that might be beyond current skill levels
+- Utilizing a stable, tested code base. 
+
+Downsides:
+- Designers often become reliant on them to a function
+- This can lead to bloat, as libraries are often used when they are not needed
+- Using libraries adds dependencies to your projects
+- You become tied to the libraries coding standards
+
+Almost all web designera use JavaScript libraries to some degree. As a designer, it's your job to know when they're appropriate. Experiment with using them as experience is the only sure way to know when a library is the best solution. 

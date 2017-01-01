@@ -1,2 +1,4 @@
 # web_design_fundamentals_lynda
-Web Design: Fundamentals
+
+Based on the Web Design: Fundamentals
+by James Williamson
