@@ -87,3 +87,34 @@ http://www.antetype.com
 http://www.getbootstrap.com
 http://foundation.zurb.com
 
+===========
+Frameworks
+===========
+
+Collection of HTML, CSS, and JavaScript files that speed up site development by providing a foundation for structure, styling, layout, and funtionality. Frameworks vary wildly in their size, focus, and abilities. 
+
+Some frameworks are very focused and lightweight, while others offer a comprehensive set of UI styling, features and functionality to choose from.
+
+Frameworks come with:
+grids.css 
+- layouts.css
+- typography.css
+- UI-elements.css
+- normalize.css
+demo.html
+behavior scripts 
+UI elements scripts
+icons
+UI-elements sprites
+web fonts. 
+
+Benefits:
+- Speed up development time
+- Cross-browser compatibility is often built-in
+- Prototypes, or entire sites, can be constructed with minimal styling required by the author
+- Great fot learning about overall site building, or specific
+
+Downsides:
+- You'll usually use only a fraction of what most frameworks offer.
+- You're restricted by someone else's coding standards
+- Modifying the framework to fit your workflow can be time-consuming techniques
