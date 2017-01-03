@@ -136,5 +136,11 @@ Learn the most common elements first
 Research best practices for structuring common content
 Learn HTML5 sectioning elements and when they're appropriate
 
+=============
+Learning CSS
+=============
 
-
+Focus on selectors - These allow you to efficiently target elements
+Properties - Learn wich properties can be used for specific elements, and wich values they'll accept. 
+Specificity, Inheritance, & The Cascate - There three principles guide how rules are rendered and what happens if rules conflict with each other.
+Browser Support - Know what's supported by each browser and the minor rendering differences between them.
