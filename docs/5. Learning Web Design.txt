@@ -51,3 +51,20 @@ Content should be  - Accessible and obvious
 
 Various design screen
 Attention to color and contrast
+
+=================================
+Dealing with a multidevice world
+=================================
+
+Things are still changing
+Incorporate techniques on how to stay current
+
+A Mobile-First Approach 
+- Design for the mobile screen first, and then modify designs as screen sizes get bigger
+- The rize in consumption of content by mobile devices helps to advocate for this approach
+- Even if you don't subscribe to this approach, you must account for how your content looks on multiple levels
+
+An always connected world
+- Soon almost everuthing, even mundane devices, will be connected to the web
+- Structuring your content correctly helps, but be prepared to closely monitor how content is consumed ny new devices.
+ssss
