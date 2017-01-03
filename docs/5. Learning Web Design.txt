@@ -29,3 +29,15 @@ http://www.ecma-international.org --> ECMAScript specification
 - Allows Content to be future-friendly
 - Content is more accessible for search engines and individuals using assistive technologies
 - Gives focus for learning HTML and CSS
+
+==========================
+The importance of content
+==========================
+
+Content Strategist
+- Develops content strategy
+- Types of content
+- Responsibilities for content 
+- Define workflows for content creation and maintenance
+- Best presentation style for content
+
