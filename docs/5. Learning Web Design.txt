@@ -12,3 +12,20 @@ What are your strenghts?
 
 Finding a starting  point
 Focus on usability, accessibility, and user experience
+
+============================
+Standards and accessibility
+============================
+
+Web Standards Project
+- Effort started by designers, developers, and interested companies to promote web standards
+- Almost all web clients supports web standards
+
+http://www.w3.org --> specifications for HTML and CSS
+http://www.ecma-international.org --> ECMAScript specification
+
+- Write once, read and render everywhere
+- Backwards compatible with older browsers
+- Allows Content to be future-friendly
+- Content is more accessible for search engines and individuals using assistive technologies
+- Gives focus for learning HTML and CSS
