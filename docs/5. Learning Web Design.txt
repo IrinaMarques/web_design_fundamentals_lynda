@@ -127,3 +127,14 @@ PUBLISHING
 Publish!
 You can publish the site and watch it go live. Continue to test the project and make sure everthing is working as expected. It's not uncommon to still need a couple of rounds of revisions after the site launches. 
 
+==============
+Learning HTML
+==============
+
+Focus on the basic syntax first
+Learn the most common elements first
+Research best practices for structuring common content
+Learn HTML5 sectioning elements and when they're appropriate
+
+
+
