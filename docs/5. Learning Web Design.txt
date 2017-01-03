@@ -67,4 +67,63 @@ A Mobile-First Approach
 An always connected world
 - Soon almost everuthing, even mundane devices, will be connected to the web
 - Structuring your content correctly helps, but be prepared to closely monitor how content is consumed ny new devices.
-ssss
+
+=================================
+The typical web design workflow
+=================================
+
+Segments:
+- Planning
+- Design
+- Development
+- Publishing
+
+PLANNING:
+
+Planning:
+Project briefs helps describe the scope of the project, set expectations for both the designer and the client, and outlines expected deliverable.
+
+Content Servey:
+The content survey will define all types of content used in the project, rank them in order of importance, and give you a greater sense of how you'll need to structure content within your design.
+
+Content Strategy: 
+After the content survey, the information will be used to develop a content strategy. This strategy guides how content should be displayed and the importance of content relative to each other. Not every site needs a content strategy, but they can provide and incredible useful blueprint when implemented.
+
+Initial Site Plan:
+The initial site plan will include wireframes, content strategy, site maps, and possible feautures that the site might need. There's no design being done at this point, no mockups or design treatments, rather it's a plan for how to move forward with the site and how the site will be organized.
+
+DESIGN:
+
+Sketching:
+My initial designs is usually driven by sketches. Sketching allows me to explore ideias quickly in a low-cost and efficient manner. I can iterate through changes, or just experiment with ideas. Sketching doesn't work for everyone but for me it's an importante part of my design process.
+
+Style Tiles:
+These allows you to create design elements for a site without actually doing a full page mockup. Using style tiles you can collaborate with other designers and clients and focus on the aesthetics of the page design rather tha specific page elements. 
+-->http://styletil.es
+-->http://bradfrostweb.com/blog/post/atomic-web-design
+
+Prototypes:
+Occasionally I'll create prototypes. Prototypes are funtional examples of either the site, the project, or a specific feature. Prototypes are not mockups, they're designed to test out the funtionality and effectiveness of things like navigation, application, floow, or content discoverability. Using prototypes allows me to iterate throught design faster especially when collaborationg with the client or project team.
+
+Generating Site Assets:
+This could be copywriting, icons, fonts, video, images, or any other asset that the site will need. I try to generate as many of these assets as I can prior to development, but not unusual to be generating or revising assets throughout the entire project. 
+
+DEVELOPMENT:
+
+Now we Code!
+At this point I began to author the HTML, CSS, and JavaScript for the site. If I've done my planning properly I already have a good idea as to how my pages will be structured and styled. If I have any complex scripting or development requirements I'll bring in a developer to help me. Having a good network of other developers and designers that you can collaborate with is important if you're working on your own or in a small team.
+
+Use Github:
+These systems will allow you track changes, branch off projects, ad roll back to earlier versions if there's a problem. They also provide invaluable backup support for your development process. Although there's a little bit of a learning curve the benefits fas outweigh any difficulty you might have in becoming familiar with the system. 
+
+Always be testing:
+Testing iwith multiple browsers and platforms is essential to ensuring that your site will look and behave the way that you expect. By testing throughout the process you are keeping small problems from becoming big ones. You also need to have a strategy for testing on multiple devices as well as multiple browsers. As your project reaches completion you may want to start usability testing. 
+
+Schedule Final Rewiews:
+Make sure your client knows that this is a last review cycle prior to publishing. I've seen many projects be delayed due to a client's insistence on continuing to make changes. Unless there are still deficiencies with site functionality, make sure the client knows that any delays are above the existing scope of the project. 
+
+PUBLISHING
+
+Publish!
+You can publish the site and watch it go live. Continue to test the project and make sure everthing is working as expected. It's not uncommon to still need a couple of rounds of revisions after the site launches. 
+
